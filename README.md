@@ -1,5 +1,17 @@
-# Hosting a Full-Stack Application
+# Hosting a Full-Stack Application   
 
+## Project overview   
+
+This is the third project for Udacity - Advanced web track.
+The project goal is to Deploy a Full-Stack application using AWS cloud services and CircleCI for CI-CD work flow with proper documentation.
+
+The Link to the FrontEnd Application using s3 service:  
+
+[http://udagram-k.s3-website.us-east-2.amazonaws.com/home](http://udagram-k.s3-website.us-east-2.amazonaws.com/home)
+
+Screenshot of working application:   
+
+!['Working Application'](./docs/screenshots/working-app.png "The deployed front end of the app")
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
