@@ -1,0 +1,22 @@
+branch-defaults:
+  default:
+    environment: udagram-api-dev
+    group_suffix: null
+environment-defaults:
+  udagram-api-dev:
+    branch: null
+    repository: null
+global:
+  application_name: udagram-api
+  branch: null
+  default_ec2_keyname: ebtango
+  default_platform: Node.js 14 running on 64bit Amazon Linux 2
+  default_region: us-east-2
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  sc: null
+  workspace_type: Application
